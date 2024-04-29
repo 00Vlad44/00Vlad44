@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me
 🏫Currently in my 2nd Year Double Majoring at Computer Science at University of Waterloo and Business Administration at University of Wilfrid Laurier<br>📊Exploring the industry of the financial derivatives through Software Development<br>🎨Creating cool and innovating projects<br>📃Learning about the ideologies of Arbitrage opportunities 
 
 
