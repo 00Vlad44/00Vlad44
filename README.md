@@ -5,7 +5,7 @@
 </h1>
 
 # About Me:
-🏫Currently in my 2nd Year Double Majoring Computer Science at University of Waterloo and Business Administration at University of Wilfrid Laurier<br>📊Exploring the industry of the financial derivatives through Software Development<br>🎨Creating cool and innovating projects<br>📃Learning about the ideologies of Arbitrage opportunities 
+🏫Currently in my 2nd Year Double Majoring Computer Science at University of Waterloo and Business Administration at University of Wilfrid Laurier<br>📊Exploring the industry of the financial derivatives through Software Development<br>📃Learning about the ideologies of Arbitrage opportunities<br>🎨Creating cool and innovating projects
 
 
 # 🤝 Connect with me:
