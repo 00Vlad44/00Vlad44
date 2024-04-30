@@ -5,7 +5,7 @@
 </h1>
 
 # About Me:
-🏫Currently in my 2nd year Ddouble Majoring Computer Science at UW and Business Administration at WLU<br>📊Exploring the industry of the financial derivatives through Software Development<br>📃Learning about the ideologies of Arbitrage opportunities<br>🎨Creating cool and innovating projects
+🏫Currently in my 2nd year double majoring Computer Science at UW and Business Administration at WLU<br>📊Exploring the industry of the financial derivatives through Software Development<br>📃Learning about the ideologies of Arbitrage opportunities<br>🎨Creating cool and innovating projects
 
 
 # 🤝 Connect with me:
