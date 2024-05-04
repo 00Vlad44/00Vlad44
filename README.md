@@ -4,8 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vlad!;" />
 </h1>
 
-# About Me:
+
+<h2 align = "center"> About Me </h2>
+<div align = "center">
 🏫Currently in my 2nd year double majoring Computer Science at UW and Business Administration at WLU<br>📊Exploring the industry of the financial derivatives through Software Development<br>📃Learning about the ideologies of Arbitrage opportunities<br>🎨Creating cool and innovating projects
+</div>
 
 
 # 🤝 Connect with me:
